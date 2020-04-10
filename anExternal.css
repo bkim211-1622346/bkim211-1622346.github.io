@@ -1,0 +1,12 @@
+#container {
+	position:relative;
+	width:780px;
+}
+
+.milkshake {
+	border-radius: 25px;
+}
+
+#milkshakeText {
+	float:right;
+}	
